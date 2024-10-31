@@ -52,7 +52,7 @@ void loop() {
   digitalWrite(ledAmarelo, LOW);
 }
 ```
-<img title="Print Código" src="/imagem prototipo.png">
+<img title="Print Código" src="/imagem prototipo.jpg">
 
 Vídeo de funcionamento disponível no repositório
 
